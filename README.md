@@ -3,3 +3,15 @@ The course is a guided learning space where the student will understand how arti
 <li> Identify the Machine Learning problem, applicable to several business cases.
 <li> Perform adequate data preparation, depending on the scope of the analysis. 
 <li> Formulate and evaluate different analytical solutions. Recommend the most appropriate model and hyperparameters in each case. 
+
+
+<table>
+<caption>Contenidos</caption>
+  <tr>
+    <td> <strong>Temática</strong> </td>
+    <td> <strong>Presentación/ notebook </strong></td>
+    <td> <strong>Ejercicios</strong></td>
+  </tr>
+<tr>
+    <td> 1. Regression </td>
+    <td rowspan="2"><a href="https://nbviewer.org/github/Fabiancaru/Machine_Learning/blob/main/linear_regression.ipynb">Linear_regression </td></td>
