@@ -14,4 +14,4 @@ The course is a guided learning space where the student will understand how arti
   </tr>
 <tr>
     <td> 1. Regression </td>
-    <td rowspan="2"><a href="https://nbviewer.org/github/Fabiancaru/Machine_Learning/blob/main/linear_regression.ipynb">Linear_regression </td></td>
+    <td rowspan="2"><a href="">Linear_regression </td></td>
