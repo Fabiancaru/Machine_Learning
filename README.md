@@ -12,7 +12,16 @@ The course is a guided learning space where the student will understand how arti
     <td> <strong>Presentación/ notebook </strong></td>
     <td> <strong>Ejercicios</strong></td>
   </tr>
-<tr>
+  <tr>
     <td> 1. Regression </td>
-    <td rowspan="2"><a href="https://nbviewer.org/github/Fabiancaru/Machine_Learning/blob/main/linear_regression_Ridge_Lasso.ipynb">Linear_regression </td></td>
-    <td rowspan="2"><a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/R%C3%BAbrica%20de%20evaluaci%C3%B3n%20ejercicio%20Regresi%C3%B3n%20Lineal.pdf">Rúbrica_Exercise_lineal </td></td>
+    <td rowspan="2"><a href="https://nbviewer.org/github/Fabiancaru/Machine_Learning/blob/main/linear_regression_Ridge_Lasso.ipynb">Linear_regression</td> 
+    <td rowspan="2"><a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/R%C3%BAbrica%20de%20evaluaci%C3%B3n%20ejercicio%20Regresi%C3%B3n%20Lineal.pdf">Rúbrica_Exercise_lineal          </td>
+  <tr>
+    </tr>  
+  <td> 2. Classification </td>
+  <td>   <a href="https://nbviewer.org/github/Fabiancaru/Machine_Learning/blob/main/Smarket.ipynb">Classification_Smarket</a></td>
+    
+  </tr>    
+</table>    
+
+      
