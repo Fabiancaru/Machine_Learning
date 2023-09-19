@@ -21,8 +21,9 @@ The course is a guided learning space where the student will understand how arti
   <tr>
       <td>2. Logistic Regression, LDA, QDA, KNN </td>
       <td <li> <a href="https://nbviewer.org/github/Fabiancaru/Machine_Learning/blob/main/Smarket_2023_2.ipynb"> Logistic_LDA_QDA_KNN </a> </li>
-          <li> <a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/LDA_QDA_2023_2.pdf">Notes Logistic_LDA_QDA_KNN </a></li>
-      </td>
+          <li> <a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/LDA_QDA_2023_2.pdf">Notes Logistic_LDA_QDA_KNN </a></li> </td>
+      <td> <li> <a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/Proj_1_Machine_learning_Slid.pdf"> Mini_project</a> </li>
+           <li> <a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/R%C3%BAbrica%20de%20evaluaci%C3%B3n%20Mini_proyecto.pdf">Rúbrica mini_project</a></td> </li>
     
   </tr>
 <!--  <td> 2. Classification </td> -->
