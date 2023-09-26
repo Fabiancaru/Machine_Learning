@@ -29,7 +29,7 @@ The course is a guided learning space where the student will understand how arti
  <tr>
       <td>3. Tree Decision </td>
       <td <li> <a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/Tree_decision/Tree_FC.pdf"> Tree Decision </a> </li>
-          <li> <a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/Tree_decision/Tree_regres.xlsx"> Example </a></li> </td>
+         
     
   </tr>
 
