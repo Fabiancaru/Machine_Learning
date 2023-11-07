@@ -32,7 +32,14 @@ The course is a guided learning space where the student will understand how arti
          
     
   </tr>
-
+ <tr>
+      <td>3. Mini_proyecto_2 </td>
+      <td <li> <a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/Mini_proyecto_2/Walmart%20Dataset.pdf"> Presentación_Mini_Proyecto_2 </a> </li>
+       <li> <a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/Mini_proyecto_2/Smarket.xlsx"> Data </a> </li>
+        <li> <a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/Mini_proyecto_2/R%C3%BAbrica%20de%20evaluaci%C3%B3n%20Mini%20proyecto%202.pdf"> Rúbrica </a> </li>
+        </td>   
+    
+  </tr>
 
   
 <!--  <td> 2. Classification </td> -->
