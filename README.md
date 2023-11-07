@@ -40,7 +40,9 @@ The course is a guided learning space where the student will understand how arti
         </td>   
     
   </tr>
-
+<tr>
+      <td>3. PCA </td>
+      <td <li> <a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/PCA_2023.ipynb"> Colab_PCA </a> </li>
   
 <!--  <td> 2. Classification </td> -->
 <!--  <td>   <a href="https://nbviewer.org/github/Fabiancaru/Machine_Learning/blob/main/Smarket.ipynb">Classification_Smarket</a></td> -->
