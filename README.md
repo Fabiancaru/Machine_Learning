@@ -33,7 +33,7 @@ The course is a guided learning space where the student will understand how arti
     
   </tr>
  <tr>
-      <td>3. Mini_proyecto_2 </td>
+      <td>4. Mini_proyecto_2 </td>
       <td <li> <a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/Mini_proyecto_2/Walmart%20Dataset.pdf"> Presentación_Mini_Proyecto_2 </a> </li>
        <li> <a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/Mini_proyecto_2/Smarket.xlsx"> Data </a> </li>
         <li> <a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/Mini_proyecto_2/R%C3%BAbrica%20de%20evaluaci%C3%B3n%20Mini%20proyecto%202.pdf"> Rúbrica </a> </li>
@@ -41,13 +41,18 @@ The course is a guided learning space where the student will understand how arti
     
   </tr>
 <tr>
-      <td>3. PCA </td>
+      <td>5. PCA </td>
       <td <li> <a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/PCA_2023.ipynb"> Colab_PCA </a> </li>
-  
+
+</tr>
+<tr>
+      <td>6. Percepton Multicapa </td>
+      <td <li> <a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/A_First_NN_2023.ipynb">Red_neuronal </a> </li>
+</tr>  
 <!--  <td> 2. Classification </td> -->
 <!--  <td>   <a href="https://nbviewer.org/github/Fabiancaru/Machine_Learning/blob/main/Smarket.ipynb">Classification_Smarket</a></td> -->
     
-  </tr>    
+
 </table>    
 
       
