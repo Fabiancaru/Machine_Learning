@@ -4,7 +4,7 @@ The course is a guided learning space where the student will understand how arti
 <li> Perform adequate data preparation, depending on the scope of the analysis. 
 <li> Formulate and evaluate different analytical solutions. Recommend the most appropriate model and hyperparameters in each case. 
 
-
+<!--
 <table>
 <caption>Contenidos</caption>
   <tr>
